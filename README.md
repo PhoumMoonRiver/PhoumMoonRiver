@@ -10,5 +10,5 @@ Skills: HTML / CSS / Javascript / C
 - ⚡ Fun fact: moon river is name of song. https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG?si=glmM9N4XQ6irT2nGMIdkkA 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PhoumMoonRiver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31n3fmxx3m4hudcxs2lakfglziiq?si=LIIZfb7fS---b3reZK8q5A)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PhoumMoonRiver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/https://www.linkedin.com/feed//](https://www.linkedin.com/in/naruephop-jeraseat-33a713212/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31n3fmxx3m4hudcxs2lakfglziiq?si=LIIZfb7fS---b3reZK8q5A)  
 
