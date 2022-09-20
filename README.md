@@ -1,5 +1,5 @@
-### Hi there, I'm 🐺 njerasea ==> [Phoum || Poom] 
-![](https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.6435-9/170127374_2880457202237816_8210223846305288456_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFRX--IX1BaEw1e7zgVoY3X_ZtLPTX0J5j9m0s9NfQnmDQFwmsljqcqsVzr9sBZ9E8GvijTzFBtSmEQvMBuL9B1&_nc_ohc=soM071tHURQAX8GsNZl&_nc_ht=scontent.fbkk6-1.fna&oh=00_AT83YRGKKoi1dWhaYdjgaYAeTD_ERWDIIiJuVPql3omqrA&oe=634CC92A)
+### Hi there 👋, I'm 🐺 njerasea ==> [Phoum || Poom] 
+![](https://i.pinimg.com/originals/bf/41/cd/bf41cdcb78d70e939578774053efa147.jpg)
 
 Smile like you’ve never cried, fight like you've never lost, love like you’ve never been hurt, and live like there's no tomorrow. 💫
 
